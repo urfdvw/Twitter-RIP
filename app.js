@@ -120,7 +120,7 @@ function browseTab() {
   document.getElementById('browse').hidden = false;
 }
 
-const pageSize = 50;
+const pageSize = 500;
 const pageMax = Math.floor(browseDocuments.length/pageSize) + 1;
 let page = 1;
 let browseIndex = (page - 1) * pageSize;
