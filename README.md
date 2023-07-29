@@ -1,5 +1,6 @@
 # Twitter RIP
-My old tweets. 
-Made with https://tinysubversions.com/twitter-archive/make-your-own/.
+My old tweets, here: urfdvw.github.io/Twitter-RIP/
 
-Follow me on Mastodon https://fosstodon.org/@Riverwang
+Follow me now on Mastodon https://fosstodon.org/@Riverwang
+
+Made with https://tinysubversions.com/twitter-archive/make-your-own/
