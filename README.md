@@ -1,5 +1,5 @@
 # Twitter RIP
-My old tweets, here: urfdvw.github.io/Twitter-RIP/
+My old tweets, here: https://urfdvw.github.io/Twitter-RIP/
 
 Follow me now on Mastodon https://fosstodon.org/@Riverwang
 
